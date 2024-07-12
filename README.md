@@ -1,8 +1,7 @@
 aceutils 
 ========
 
-An utility written in Rust to convert Garmin Aviation Checklist Editor (ACE)
-files to and from various formats.
+Rust utility to convert Garmin Aviation Checklist Editor (ACE) files to and from various formats.
 
 ## License
 
