@@ -1,0 +1,7 @@
+[package]
+name = "aceutils"
+authors = ["Shawn Debnath <shawn@debnath.net>"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
